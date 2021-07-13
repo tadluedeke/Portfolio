@@ -1,0 +1,57 @@
+header {
+    background-image: url("img/Matrix.jpg");
+    background-size: cover;
+    border: 2px solid darkslategray;
+}
+
+body {
+    background-image: url("img/Concrete.jpg");
+    background-size: cover;
+}
+
+header h1 {
+    color: white;
+    background-color: darkslategray;
+    width: 25%;
+    margin-bottom: 0;
+    padding-left: 5px;
+}
+
+.btn {
+    color: white;
+    background-color: darkslategray;
+    border-color: red;
+}
+
+nav {
+    background-color: lightgrey;
+    width: 35%;
+    border: 1px solid blue;
+    padding-left: 4px;
+}
+
+footer {
+    background-image: url("img/Matrix.jpg");
+    background-size: cover;
+    border: 2px solid darkslategray;
+}
+
+.lead {
+    color: white;
+    background-color: darkslategray ;
+    width: 35%;
+    margin-top: 0;
+    padding-left: 10px;
+}
+
+section#projectcards {
+    margin: 10px;
+}
+
+section#projectcards card {
+    background-color: lightgrey;
+}
+
+.profilepic{
+    float: right;
+}
